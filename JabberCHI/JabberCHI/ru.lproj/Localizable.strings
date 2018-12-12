@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  jabber
+
+  Created by iosDeveloper on 28.10.15.
+  Copyright © 2015 CHISoftware. All rights reserved.
+*/
+"Chats" = "Чаты";
+"All users" = "Контакты";
+"Online" = "Онлайн";
+"change photo" = "изменить фото";
+"Search" = "Поиск";
+"Error" = "Ошибка";
+"No internet connection" = "Отсутствует соединение с интернетом";
+"OK" = "OK";
+"Cancel" = "Отмена";
+"Warning" = "Предупреждение";
+"Do you want to logout?" = "Вы действительно хотите выйти из аккаунта?";
+"No" = "Нет";
+"Yes" = "Да";
+"Cancel action" = "Отмена";
+"Settings" = "Настройки";
+"Log Out" = "Выход";
+"Password must contain from 6 to 16 characters" = "Пароль должен содержать от 6 до 16 символов";
+"Please, fill all fields" = "Пожалуйста, заполните все поля";
+"Can not update photo" = "Невозможно загрузить фото";
+"User %@ sent you an invitation" = "Пользователь %@ отправил вам приглашение в друзья";
+"Accept" = "Принять";
+"Decline" = "Отклонить";
+"Send photo" = "Отправить фото";
+"Media messages" = "Медиа сообщения";
+"Take Photo" = "Сделать фото";
+"Photo Library" = "Фотопленка";
+"Login" = "Войти";
+"Account name" = "Логин";
+"Password" = "Пароль";
+"Incorrect login" = "Неправильный логин";
+"Message" = "Сообщение";
+"Message must contain no more than 500 symbols" = "Сообщение должно содержать не более 500 символов";
+"Notification" = "Уведомление";
+"User %@ is added to you contact list" = "Пользователь %@ добавлен в ваш список контактов";
+"Check login or password" = "Проверьте логин или пароль";
+"You can't add yourself" = "Вы не можете добавить себя";
+"User %@ already exists in your contact list" = "Пользователь %@ уже добавлен в ваш список контактов";
+"Wrong username format" = "Неправильный формат имени";
+"Do you want to block user %@?" = "Вы хотите заблокировать пользователя %@?";
+"To use this application you should have Jabber account" = "Чтобы пользоватся этим приложением, у Вас должен быть Jabber-аккаунт";

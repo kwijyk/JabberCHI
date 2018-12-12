@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  jabber
+
+  Created by iosDeveloper on 28.10.15.
+  Copyright © 2015 CHISoftware. All rights reserved.
+*/
+
+"Chats" = "Chats";
+"All users" = "All users";
+"Online" = "Online";
+"change photo" = "change photo";
+"Search" = "Search";
+"Error" = "Error";
+"No internet connection" = "No internet connection";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Warning" = "Warning";
+"Do you want to logout?" = "Do you want to logout?";
+"No" = "No";
+"Yes" = "Yes";
+"Cancel action" = "Cancel action";
+"Settings" = "Settings";
+"Log Out" = "Log Out";
+"Password must contain from 6 to 16 characters" = "Password must contain from 6 to 16 characters";
+"Please, fill all fields" = "Please, fill all fields";
+"Can not update photo" = "Can not update photo";
+"User %@ sent you an invitation" = "User %@ sent you an invitation";
+"Decline" = "Decline";
+"Send photo" = "Send photo";
+"Media messages" = "Media messages";
+"Take Photo" = "Take Photo";
+"Photo Library" = "Photo Library";
+"Login" = "Login";
+"Account name" = "Account name";
+"Password" = "Password";
+"Incorrect login" = "Incorrect login";
+"Message" = "Message";
+"Message must contain no more than 500 symbols" = "Message must contain no more than 500 symbols";
+"Notification" = "Notification";
+"User %@ is added to you contact list" = "User %@ is added to you contact list";
+"Check login or password" = "Check login or password";
+"You can't add yourself" = "You can't add yourself";
+"User %@ already exists in your contact list" = "User %@ already exists in your contact list";
+"Wrong username format" = "Wrong username format";
+"Do you want to block user %@?" = "Do you want to block user %@?";
+"To use this application you should have Jabber account" = "To use this application you should have Jabber account";

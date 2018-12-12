@@ -1,0 +1,28 @@
+PODS:
+  - JSQMessagesViewController (7.2.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - MBProgressHUD (0.9.1)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - JSQMessagesViewController
+  - MBProgressHUD (~> 0.9.1)
+  - Reachability
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JSQMessagesViewController
+    - JSQSystemSoundPlayer
+    - MBProgressHUD
+    - Reachability
+
+SPEC CHECKSUMS:
+  JSQMessagesViewController: 73cab48aa92fc2d512f3b6724f3425cc47a19eb5
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: 33c69eb3212631a946f18017ada06de96e4f1b6c
+
+COCOAPODS: 1.5.3
